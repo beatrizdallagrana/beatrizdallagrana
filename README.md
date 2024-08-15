@@ -2,6 +2,7 @@
 
 Meu nome é Beatriz Dallagrana
 
+- Tenho 15 anos
 - Sou estudante
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
